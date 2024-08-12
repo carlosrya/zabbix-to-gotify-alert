@@ -54,6 +54,9 @@ Before setting up the script, you will need to create an application in Gotify t
 
 ### Step 3: Configure Zabbix Media Type
 
+additional suggestion:
+Go to alerts > actions > trigger actions and enable it
+
 1. Log into your Zabbix frontend.
 
 2. Navigate to `Administration > Media Types` and click `Create Media Type`.
